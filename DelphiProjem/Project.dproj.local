@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.758,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Unit2.dfm=C:\Users\Seda Karadeniz\Desktop\DelphiProjem\RegistrationList.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Unit2.pas=C:\Users\Seda Karadeniz\Desktop\DelphiProjem\RegistrationList.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\RegistrationForm.dfm=C:\Users\Seda Karadeniz\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\RegistrationForm.pas=C:\Users\Seda Karadeniz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Project.dproj=C:\Users\Seda Karadeniz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Unit3.pas=C:\Users\Seda Karadeniz\Desktop\DelphiProjem\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.354,=C:\Users\Seda Karadeniz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,C:\Users\Seda Karadeniz\Desktop\DelphiProjem\Unit3.dfm=C:\Users\Seda Karadeniz\Desktop\DelphiProjem\DataModule.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
